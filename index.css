@@ -1,0 +1,58 @@
+body{
+    font-family: open sans;
+}
+
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.viewmoredownloads{
+    font-weight: 700;
+text-transform: uppercase;
+background-color: #5e068a;
+padding: 12px 20px;
+color: #fff;
+text-decoration: none;
+
+}
+.viewmoredownloads:hover{
+    background-color: #fff;
+    color: blueviolet;
+}
+.col-6{
+width: 18rem;
+
+}
+.col-6:hover{
+width: 25.5rem;
+box-shadow:5px 5px 5px gray;
+
+}
+.desk{
+font-size: 18px;
+line-height: 25px;
+margin-bottom: 15px;
+font-weight: 700;
+ color:black;
+margin-top:20px;
+ 
+}
+.desk:hover{
+    color:white;
+    
+}
+.note{
+    margin-bottom: 15px;
+    line-height: 1.8;
+    color:black;
+}
+.note:hover{
+    color:black;
+}
+.card-body{
+    background-color: whitesmoke;
+}
+.card-body:hover{
+    background-color: rgb(192, 189, 189);
+}
